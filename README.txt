@@ -1,3 +1,9 @@
+Project Description:
+Use OpenMPI to simulate Game of Life. See output in result.out
+
+
+
+Compiling:
 On Hummingbird, do the following to compile and run my code:
 
 2D decomp:
